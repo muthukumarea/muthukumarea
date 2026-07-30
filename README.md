@@ -27,7 +27,7 @@ A full-stack service-management platform for handling support tickets from creat
 
 ---
 
-### EasePark — Smart Parking Management System
+### [EasePark — Smart Parking Management System](https://github.com/muthukumarea/EASEPARK)
 
 **React.js · Node.js · Express.js · MySQL · Razorpay · Google Maps API**
 
